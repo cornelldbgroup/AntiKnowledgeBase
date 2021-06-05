@@ -12,6 +12,7 @@ The AKB entries have been mined automatically and have no perfect precision (i.e
 
 When using the data in this repository, please cite the associated paper, e.g. via BibTex:
 
+```
 @article{karagiannis2019mining,
   title={Mining an" anti-knowledge base" from Wikipedia updates with applications to fact checking and beyond},
   author={Karagiannis, Georgios and Trummer, Immanuel and Jo, Saehan and Khandelwal, Shubham and Wang, Xuezhi and Yu, Cong},
@@ -22,3 +23,4 @@ When using the data in this repository, please cite the associated paper, e.g. v
   year={2019},
   publisher={VLDB Endowment}
 }
+```
